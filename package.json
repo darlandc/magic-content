@@ -1,6 +1,7 @@
 {
   "name": "magic-content",
   "version": "0.0.0",
+  "author": "Darlan de Castro Iribarrem",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "magic-content"
+    }
+  },
+  "defaultProject": "magic-content",
+  "cli": {
+    "analytics": false
+  }
 }
